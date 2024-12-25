@@ -11,7 +11,7 @@
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
-		<string>https://www.parsehub.com/static/client/parsehub.dmg</string>
+		<string>https://www.parsehub.com/static/client/ParseHub.dmg</string>
 		<key>NAME</key>
 		<string>ParseHub</string>
 	</dict>
